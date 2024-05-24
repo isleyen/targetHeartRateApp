@@ -1,0 +1,4 @@
+﻿  nabiz.cpp
+C:\Users\ahmet\source\repos\nabizHesapla\nabiz.cpp(60,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\source\repos\nabizHesapla\nabiz.cpp(61,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  nabizHesapla.vcxproj -> C:\Users\ahmet\source\repos\nabizHesapla\x64\Debug\nabizHesapla.exe
